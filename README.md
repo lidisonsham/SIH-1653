@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:13.03.2025
-## Register Number:24901028
-## Name:DURAIARASAN M
+## Register Number:24007744
+## Name:LIDISON SHAM M
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
